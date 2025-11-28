@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: column; justify-content: space-between; width: 100% ;border: 2px solid; border-radius: 7.5px; padding: 10px; margin: 10px;">
 
-  <div style="display: grid; flex-direction: row; justify-content: space-between; width: 100%; background-color: red;">
+  <div style="display: flex; flex-direction: row; justify-content: space around; width: 100%; background-color: red;">
     <div style="width: 33%;">
         <p>    I’m currently working on learning new Languages!</p>          
         <br>
