@@ -1,6 +1,6 @@
 ## Hello and Welcome!
 
-<div style="display: flex; flex-direction: column; justify-content: space-between; width: 100% ;border: 2px solid; border-radius: 7.5px; #ffffffff; padding: 10px; margin: 10px;">
+<div style="display: flex; flex-direction: column; justify-content: space-between; width: 100% ;border: 2px solid; border-radius: 7.5px; padding: 10px; margin: 10px;">
 
   <div style="display: grid; flex-direction: row; justify-content: space-between; width: 100%; background-color: red;">
     <div style="width: 33%;">
@@ -14,7 +14,7 @@
     <img style="width: 33%; margin-bottom: 15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiryo&theme=chartreuse-dark&show&stats_format=bytes&bg_color=00000000"> 
   </div>
   
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Mahiryo&theme=chartreuse-dark&show_icons=true&bg_color=00000000">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mahiryo&theme=chartreuse-dark&show_icons=true&bg_color=00000000">
   
 
 </div>
