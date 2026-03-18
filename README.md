@@ -9,6 +9,9 @@
   <br>
   <br>
   Currently Learning: Java;  
+  Currently Learning: C#;  
+  Currently Learning: Python;  
+  Currently Learning: C++;  
   <br>
   <br>
   <br>
