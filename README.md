@@ -2,8 +2,8 @@
 
 
 <div style="display:flex; gap: 0px 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mahiryo&show_icons=true&theme=tokyonight" alt="M4theusCM" height="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiryo&compact=true&theme=tokyonight" alt="M4theusCM" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahiryo&show_icons=true&theme=tokyonight" alt="" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiryo&compact=true&theme=tokyonight" alt="" height="100%" />
 </div>
 
 
