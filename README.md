@@ -1,10 +1,11 @@
 ## Hello and Welcome!
 
 
-<div style="display:flex; gap: 0px 10px;">
-    <img src="https://github-stats-extended.vercel.app/api?username=Mahiryo&show_icons=true&theme=tokyonight" alt="error" height="100%" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahiryo&compact=true&theme=tokyonight" alt="error" height="100%" />
+<div style="display: flex; gap: 10px;">
+    <img src="https://github-stats-extended.vercel.app/api?username=Mahiryo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahiryo&compact=true&theme=tokyonight" alt="Top Languages" height="165" />
 </div>
+
 
 
   I’m currently working on learning new Languages! 
