@@ -13,7 +13,7 @@
   <br>
   <br>
   Currently Learning: SpringBoot Tools;  
-  Currently Learning: Python HTTPs Automations;
+  Currently Learning: Python HTTPs Automations;<br>
   Currently Looking into Learning: Power Automate Tools;
   <br>
   <br>
