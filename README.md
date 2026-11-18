@@ -12,10 +12,9 @@
   <br>
   <br>
   <br>
-  Currently Learning: Java;  
-  Currently Learning: C#;  
-  Currently Learning: Python;  
-  Currently Learning: C++;  
+  Currently Learning: SpringBoot Tools;  
+  Currently Learning: Python HTTPs Automations
+  Currently Looking into Learning: Power Automate Tools
   <br>
   <br>
   <br>
